@@ -1,2 +1,5 @@
 # Pragmatically sending and receiving messages with Kafka
 
+## Shouldn't we decide for exactly once send and receive?
+
+* link:exactly-once-is-hard.html[This is hard]
